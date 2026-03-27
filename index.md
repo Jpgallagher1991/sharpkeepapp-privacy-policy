@@ -1,11 +1,12 @@
-<p>SharpKeep Privacy Policy
-Thank you for using SharpKeep Maintenance Tracker. At SharpKeep Maintenance Tracker (“SharpKeep" , Company”, “we”, “us”, “our”), we are committed to protecting your personal information and your right to privacy.
+<h1>SharpKeep Privacy Policy</h1>
+  <p>Thank you for using SharpKeep Maintenance Tracker. At SharpKeep Maintenance Tracker (“SharpKeep" , Company”, “we”, “us”, “our”), we are committed to protecting your personal information and your right to privacy.
 
 When you use our mobile application (the “App”, “SharpKeep”) or any related services (the “Services”), you trust us with your information. SharpKeep is designed solely as a proactive reminder tool to help you track home maintenance tasks. It does not provide instructions, technical guidance, or professional advice of any kind.
 
 This document explains how we handle your information. Please read it carefully. If you do not agree with any part of this policy, discontinue use of the Services.
 
-Data We Collect
+<b>Data We Collect</b>
+<br>
 Personal Data and Your SharpKeep Account
 To create a SharpKeep account, you may provide basic personal information such as:
 
@@ -30,30 +31,36 @@ Notes you choose to store
 
 This information is considered your data. SharpKeep does not interpret, validate, or provide guidance based on this data. It is used solely to power reminders and organizational features within the app.
 
-Managing and Exporting Your Data
+<b>Managing and Exporting Your Data</b>
+<br>
 You may export your home maintenance data in a spreadsheet‑friendly format from within the app.
 
 To export all personal data associated with your account, please contact us through the in‑app support channel.
 
-Analytics to Improve SharpKeep
+<b>Analytics to Improve SharpKeep</b>
+<br>
 We may use privacy‑focused analytics tools to understand app performance, diagnose issues, and improve the user experience. These tools do not receive personally identifiable information.
 
 We do not sell or share your personal data with advertisers.
 
-Customer Support
+<b>Customer Support</b>
+<br>
 If you contact us for support, you may provide personal information such as your email address or diagnostic information. We retain support messages to improve customer service.
 
-Data Processing
+<b>Data Processing</b>
+<br>
 Personal data is deleted when you close your SharpKeep account.
 Data Retention
 We retain your data for as long as your account remains active so we can provide the Services. You may delete your account at any time (see below).
 
-Children
+<b>Children</b>
+<br>
 SharpKeep does not knowingly collect personal information from children under the age of 13 and does not target the Services to children under 13. If you are under 13, do not use the Services or submit any personal information.
 
 If you believe a child under 13 has provided personal data to us, please contact us so we can take appropriate action.
 
-Deleting Your SharpKeep Account
+<b>Deleting Your SharpKeep Account</b>
+<br>
 You may delete your SharpKeep account at any time from within the app. Deleting your account permanently removes:
 
 Your personal information
@@ -64,7 +71,8 @@ All associated settings
 
 This action cannot be undone.
 
-Changes to This Policy
+<b>Changes to This Policy</b>
+<br>
 This policy replaces all previous versions. We may update this policy from time to time. Continued use of the Services after changes are posted constitutes acceptance of the revised policy.
 
 Last Updated: 3/27/2026</p>
