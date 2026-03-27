@@ -1,31 +1,70 @@
-# Sharpkeep App Privacy Policy
+<p>SharpKeep Privacy Policy
+Thank you for using SharpKeep Maintenance Tracker. At SharpKeep Maintenance Tracker (“SharpKeep" , Company”, “we”, “us”, “our”), we are committed to protecting your personal information and your right to privacy.
 
-This is the privacy policy for the Sharpkeep app. We are committed to protecting your privacy. This policy explains how we collect, use, disclose, and safeguard your information when you use our app.
+When you use our mobile application (the “App”, “SharpKeep”) or any related services (the “Services”), you trust us with your information. SharpKeep is designed solely as a proactive reminder tool to help you track home maintenance tasks. It does not provide instructions, technical guidance, or professional advice of any kind.
 
-## Information Collection
+This document explains how we handle your information. Please read it carefully. If you do not agree with any part of this policy, discontinue use of the Services.
 
-We collect the following types of information:
-- Personal Information: Name, email, etc.
-- Usage Information: How you use our app.
+Data We Collect
+Personal Data and Your SharpKeep Account
+To create a SharpKeep account, you may provide basic personal information such as:
 
-## Information Use
+Email address
 
-The information we collect is used to:
-- Improve our services.
-- Communicate with you.
+Name (optional)
 
-## Disclosure of Information
+You may also choose to sign in using a third‑party login such as Sign in with Apple or Google.
 
-We do not sell your information to third parties.
+Your email or third‑party login is the only way to access your SharpKeep account. If you lose access to it, we cannot restore or change your login credentials for security reasons.
 
-## Security of Your Information
+Your Home Maintenance Data
+SharpKeep allows you to enter and track information related to your home, including:
 
-We prioritize the security of your information and have measures in place to protect it.
+Maintenance tasks
 
-## Changes to This Privacy Policy
+Schedules and reminders
 
-We may update our privacy policy from time to time.
+Appliance or equipment details
 
-## Contact Us
+Notes you choose to store
 
-For any questions regarding this privacy policy, please contact us.
+This information is considered your data. SharpKeep does not interpret, validate, or provide guidance based on this data. It is used solely to power reminders and organizational features within the app.
+
+Managing and Exporting Your Data
+You may export your home maintenance data in a spreadsheet‑friendly format from within the app.
+
+To export all personal data associated with your account, please contact us through the in‑app support channel.
+
+Analytics to Improve SharpKeep
+We may use privacy‑focused analytics tools to understand app performance, diagnose issues, and improve the user experience. These tools do not receive personally identifiable information.
+
+We do not sell or share your personal data with advertisers.
+
+Customer Support
+If you contact us for support, you may provide personal information such as your email address or diagnostic information. We retain support messages to improve customer service.
+
+Data Processing
+Personal data is deleted when you close your SharpKeep account.
+Data Retention
+We retain your data for as long as your account remains active so we can provide the Services. You may delete your account at any time (see below).
+
+Children
+SharpKeep does not knowingly collect personal information from children under the age of 13 and does not target the Services to children under 13. If you are under 13, do not use the Services or submit any personal information.
+
+If you believe a child under 13 has provided personal data to us, please contact us so we can take appropriate action.
+
+Deleting Your SharpKeep Account
+You may delete your SharpKeep account at any time from within the app. Deleting your account permanently removes:
+
+Your personal information
+
+All home maintenance data
+
+All associated settings
+
+This action cannot be undone.
+
+Changes to This Policy
+This policy replaces all previous versions. We may update this policy from time to time. Continued use of the Services after changes are posted constitutes acceptance of the revised policy.
+
+Last Updated: 3/27/2026</p>
